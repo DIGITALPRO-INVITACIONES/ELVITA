@@ -1,0 +1,13 @@
+ELVITA - BORRADOR RUSTICO
+Abrir mediante un servidor web o subir TODOS los archivos a la raiz de GitHub Pages.
+Nombre: Elvita. Sin edad indicada.
+WhatsApp: +591 67408598 (confirmaciones, consultas y ubicacion).
+Fecha DE EJEMPLO: 24 de octubre de 2026, 17:00, Bolivia.
+Direccion DE EJEMPLO: Calle Las Flores N. 123, Cochabamba.
+Estos datos estan marcados como provisionales. El boton de ubicacion consulta por WhatsApp, no dirige a una vivienda inventada.
+Cambiar fecha en index.html, invitacion.js y evento-borrador.ics al aprobar.
+Las ocho fotos se conservan sin retoques de contenido. Orden evocativo, NO cronologia biografica comprobada. No se atribuyen parentescos.
+Musica aportada por el cliente: A Thousand Years, Christina Perri. Empieza al abrir y se puede pausar.
+Decoracion original en CSS y SVG: papel, sobre kraft, ramas, hilo, hojas y luces.
+Galeria ampliable con botones, flechas de teclado y cierre con Escape.
+Fuente local: Great Vibes, licencia incluida.

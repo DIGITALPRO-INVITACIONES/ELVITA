@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Elvita Borrador//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:elvita-borrador-20261024@digitalpro-invitaciones
+DTSTAMP:20260930T010000Z
+DTSTART:20261024T210000Z
+SUMMARY:BORRADOR - Cumpleaños de Elvita (fecha de ejemplo)
+LOCATION:POR CONFIRMAR - Direccion de ejemplo
+DESCRIPTION:Propuesta de diseno. Fecha y hora provisionales. Consultar
+  detalles definitivos al +591 67408598.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
